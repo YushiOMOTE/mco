@@ -1,0 +1,1 @@
+# MCO: Minimum Crappy Operable
